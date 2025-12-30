@@ -1,4 +1,4 @@
-```md
+
 # Netflix-Streaming-Analysis (DuckDB Data Warehouse + EDA)
 
 A Netflix-style analytics project built on a small **data-warehouse style schema** (users, watch history, movies, reviews, recommendations, and search logs).  
